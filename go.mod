@@ -1,9 +1,10 @@
-module code.sajari.com/docconv
+module github.com/go-bolo/docconv
 
 go 1.20
 
 require (
 	cloud.google.com/go/errorreporting v0.2.0
+	code.sajari.com/docconv v1.3.5
 	github.com/JalfResi/justext v0.0.0-20170829062021-c0282dea7198
 	github.com/advancedlogic/GoOse v0.0.0-20191112112754-e742535969c1
 	github.com/google/go-cmp v0.5.7
